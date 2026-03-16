@@ -54,9 +54,9 @@ https://codeoven.vercel.app
 ### 👤 Public Profile
 
 ![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
-![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
-![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
-![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP2.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP3.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP4.png)
 
 ---
 

@@ -1,5 +1,5 @@
 # 🔥 CodeOven
-
+Competitive programming tracker • Developer leaderboard • Coding activity analytics
 **The Fitness App for Competitive Programmers** — A data aggregation and motivation hub that tracks coding progress across multiple platforms and motivates developers through leaderboards, streaks and badges.
 ## 🌐 Live Platform
 https://codeoven.vercel.app
@@ -15,7 +15,7 @@ https://codeoven.vercel.app
 - **S-Score System** — Unified scoring algorithm across all platforms
 - **Global Leaderboard** — Compete with peers based on your S-Score
 - **Rank & Badge System** — Earn medals and badges as you progress
-- **Classroom System** — Teachers can create classrooms and monitor student progress
+- **Classroom Mode** — Optional classroom environment for mentors to monitor progress
 - **Public Profile Cards** — Shareable profile cards with QR codes
 - **Activity Calendar** — Visualize your coding consistency
 - **Role-Based Access** — Student, Teacher & Admin dashboards

@@ -38,24 +38,45 @@ https://codeoven.vercel.app
 ### 👤 Profile
 
 ![Profile](./assets/profile/profileP1.png)
+![Profile](./assets/profile/profileP2.png)
 
 ---
 
 ### 📈 Progress Tracking
 
 ![Progress](./assets/progress/progressP1.png)
+![Progress](./assets/progress/progressP2.png)
+![Progress](./assets/progress/progressP3.png)
+![Progress](./assets/progress/progressP4.png)
+
+---
+
+### 👤 Public Profile
+
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
+![Public Profile](./assets/leaderboard/publicProfile/publicProfileP1.png)
 
 ---
 
 ### 🔗 Platform Integrations
 
 ![Platforms](./assets/platforms/platformsP1.png)
+![Platforms](./assets/platforms/platformsP2.png)
+![Platforms](./assets/platforms/platformsP3.png)
+![Platforms](./assets/platforms/platformsP4.png)
+![Platforms](./assets/platforms/platformsP5.png)
+![Platforms](./assets/platforms/platformsP6.png)
 
 ---
 
 ### ⚙️ Settings
 
 ![Settings](./assets/settingsPage/settingsP1.png)
+![Settings](./assets/settingsPage/settingsP2.png)
+![Settings](./assets/settingsPage/settingsP3.png)
+![Settings](./assets/settingsPage/settingsP4.png)
 
 ---
 

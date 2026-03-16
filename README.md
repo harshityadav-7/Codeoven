@@ -6,6 +6,57 @@ https://codeoven.vercel.app
 
 [![Live Demo](https://img.shields.io/badge/Live-codeoven.vercel.app-orange?style=for-the-badge)](https://codeoven.vercel.app)
 
+
+---
+
+## 📸 Application Preview
+
+### 🧭 Dashboard
+
+![Dashboard](./assets/dashboard/dashboardP1.png)
+![Dashboard](./assets/dashboard/dashboardP2.png)
+![Dashboard](./assets/dashboard/dashboardP3.png)
+
+<details>
+<summary>More Dashboard Screenshots</summary>
+
+![Dashboard](./assets/dashboard/dashboardP4.png)
+![Dashboard](./assets/dashboard/dashboardP5.png)
+![Dashboard](./assets/dashboard/dashboardP6.png)
+![Dashboard](./assets/dashboard/dashboardP7.png)
+
+</details>
+
+---
+
+### 🏆 Leaderboard
+
+![Leaderboard](./assets/leaderboard/leaderboardP1.png)
+
+---
+
+### 👤 Profile
+
+![Profile](./assets/profile/profileP1.png)
+
+---
+
+### 📈 Progress Tracking
+
+![Progress](./assets/progress/progressP1.png)
+
+---
+
+### 🔗 Platform Integrations
+
+![Platforms](./assets/platforms/platformsP1.png)
+
+---
+
+### ⚙️ Settings
+
+![Settings](./assets/settingsPage/settingsPageP1.png)
+
 ---
 
 ## 🚀 Features

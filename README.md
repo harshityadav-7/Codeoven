@@ -1,6 +1,8 @@
 # 🔥 CodeOven
 
-**The Fitness App for Competitive Programmers** — A data aggregation and motivation hub for programming education, built for Students and Teachers.
+**The Fitness App for Competitive Programmers** — A data aggregation and motivation hub that tracks coding progress across multiple platforms and motivates developers through leaderboards, streaks and badges.
+## 🌐 Live Platform
+https://codeoven.vercel.app
 
 [![Live Demo](https://img.shields.io/badge/Live-codeoven.vercel.app-orange?style=for-the-badge)](https://codeoven.vercel.app)
 

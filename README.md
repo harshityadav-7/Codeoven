@@ -55,7 +55,7 @@ https://codeoven.vercel.app
 
 ### ⚙️ Settings
 
-![Settings](./assets/settingsPage/settingsPageP1.png)
+![Settings](./assets/settingsPage/settingsP1.png)
 
 ---
 

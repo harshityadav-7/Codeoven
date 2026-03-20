@@ -81,16 +81,44 @@ https://codeoven.vercel.app
 
 ## 🚀 Features
 
-- **Multi-Platform Tracking** — Aggregate stats from LeetCode, Codeforces, GeeksforGeeks, CodeChef & AtCoder
-- **Account Verification** — Prove ownership of your competitive programming accounts
-- **S-Score System** — Unified scoring algorithm across all platforms
-- **Global Leaderboard** — Compete with peers based on your S-Score
-- **Rank & Badge System** — Earn medals and badges as you progress
-- **Classroom Mode** — Optional classroom environment for mentors to monitor progress
-- **Public Profile Cards** — Shareable profile cards with QR codes
-- **Activity Calendar** — Visualize your coding consistency
-- **Role-Based Access** — Student, Teacher & Admin dashboards
-- **Dark/Light Theme** — Beautiful UI with ambient animations
+### 🔗 Multi-Platform Tracking
+Connect and sync your profiles from **LeetCode**, **Codeforces**, **GeeksforGeeks**, **CodeChef**, **AtCoder** & **GitHub** — all in one place.
+
+### ✅ Account Verification
+Verify ownership of each platform account so your stats are authentic and trusted.
+
+### 📊 S-Score — Unified Scoring
+A custom algorithm that calculates a single score across all your linked platforms, making cross-platform comparison fair and meaningful.
+
+### 🏆 Global Leaderboard
+See where you stand among all CodeOven users. Track the gap between you and the next rank.
+
+### 🥇 Rank Tiers & Badges
+Progress through rank tiers (Apprentice → Challenger → Knight → Master → Elite Grandmaster) and earn CodeOven badges for milestones like problems solved, streaks, and more.
+
+### 👥 Head-to-Head Compare
+Pick any two users and compare their stats side-by-side — platform-wise problems solved, ratings, difficulty breakdowns, and S-Score.
+
+### 📈 Progress & Analytics
+- **Contest rating history** across LeetCode, Codeforces, CodeChef & AtCoder
+- **Topic tags radar chart** showing your strength areas
+- **Language breakdown** from your submissions
+- **Streak & consistency tracker** to visualize your coding habits
+
+### 📅 Activity Calendar
+A GitHub-style heatmap showing your daily coding activity aggregated from all platforms.
+
+### 🪪 Shareable Profile Cards
+Generate beautiful profile cards with a QR code linking to your public profile at `codeoven.vercel.app/u/yourname`. Share them anywhere.
+
+### 🌗 Dark & Light Mode
+A beautifully themed UI with ambient animations, glass-morphism design, and smooth transitions — in both dark and light modes.
+
+### 🔔 Onboarding & Support
+First-time users get a guided walkthrough. A built-in contact/support system lets users reach Team CodeOven directly.
+
+---
+
 
 ## 🛠️ Tech Stack
 
